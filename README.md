@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mitali Baj</h1>
-<h3 align="center">An impassioned Computer Engineering Student from India!</h3>
+<h3 align="center">An impassioned Computer Engineering Student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Data Science and Machine Learning.**
+
+- 📝 I also write articles on [https://medium.com/@mitali.p.baj](https://medium.com/@mitali.p.baj)
 
 - 💬 Ask me about **Python programming, SQL, R, Computer Architecture**
 
@@ -11,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mitali-baj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitali-baj" height="30" width="40" /></a>
+<a href="https://medium.com/@mitali.p.baj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mitali.p.baj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mitalibaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitalibaj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mitali_p_baj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mitali_p_baj" height="30" width="40" /></a>
 </p>
